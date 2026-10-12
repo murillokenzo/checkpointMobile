@@ -14,7 +14,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  static const int capacidadeMaxima = 50;
+  static const int capacidadeMaxima = 3;
 
   final TextEditingController _nomeController = TextEditingController();
   final TextEditingController _idController = TextEditingController();

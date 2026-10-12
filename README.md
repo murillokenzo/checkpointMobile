@@ -13,7 +13,7 @@ Cinema 🎬
 - Murillo Kenzo Loureiro Kacinvazaki - RM566948
 
 ## Vídeo de demonstração
-> Cole aqui o link (YouTube, GitHub etc.) do vídeo de até 5 minutos.
+> (https://www.youtube.com/watch?v=jwO11xET3T0)
 
 ## Funcionalidades
 - Cadastro de pessoa (nome, ID/matrícula e data/hora de entrada automática)
